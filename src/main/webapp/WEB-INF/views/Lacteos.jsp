@@ -164,7 +164,6 @@
                     Agregar al Carrito
                 </button>
             </div>
-            <!-- Puedes seguir agregando más productos aquí -->
 
         </div>
     </main>
